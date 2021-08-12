@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>"you can write your group or ngo name"</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href ="https://image.flaticon.com/icons/png/512/3842/3842881.png"/>
+<style>
+ .bttn{
+height:50px;
+width:250px;
+border:1px solid black;
+border-radius:12px;
+font size:30;
+background-color:Lavender;
+font-weight:bold;
+}
+ .butn{
+height:30px;
+width:200px;
+border:1px solid black;
+border-radius:12px;
+font size:30;
+background-color:Lavender;
+font-weight:bold;
+
+} 
+
+ .btth{
+height:30px;
+width:200px;
+border:1px solid black;
+border-radius:12px;
+font size:30;
+background-color:Lavender;
+font-weight:bold;
+
+} 
+.buth{
+height:30px;
+width:200px;
+border:1px solid black;
+border-radius:12px;
+font size:30;
+background-color:Lavender;
+font-weight:bold;
+
+} 
+  .bttn:hover{
+
+border:1px solid black;
+border-radius:12px;
+font size:35;
+background-color:MediumSlateBlue;
+cursor:pointer;
+}
+.butn:hover{
+
+border:1px solid black;
+border-radius:12px;
+font size:35;
+background-color:tomato;
+cursor:pointer;
+}
+.btth:hover{
+border:1px solid black;
+border-radius:12px;
+font size:35;
+background-color:tomato;
+cursor:pointer;
+}
+.buth:hover{
+border:1px solid black;
+border-radius:14px;
+font size:35;
+background-color:cyan;
+cursor:pointer;
+}
+p.ex1 {
+  border: 5px solid black; 
+  padding: 50px 100px 50px 100px;
+}
+</style>
+</head>
+<center><div style="background-color:#008B8B;">
+<div style ="float: center; width:100px"><b><font size="3"><a href="copy and paste the code of website from my github "></b><button class="buth">website help </button></a></div>
+<div style ="float: left; width:195px"><b><font size="3"><a href="copy the code from website and paste here link of html page"></b><button class="btth">helpline numbers</button></a></div>
+<div style ="float: right; width:195px"><b><font size="3"><a href="make a google form for feedback of website and paste link here"></b><button class="butn">suggestion box</button></a></div>
+</div>
+<hr>
+<div style="background-color:#FFF0F5;">
+<font size ="6"><center><b><font color="purple"><div style="background-color:#F5FFFA;">****"we are glad to help you in such pandemic situation."****</b></center>
+<div style="background-color:#FFFACD;">
+<marquee><center><h1><img src="your college or ngo logo link paste here"> <font color="blue">     <b>welcome to the your college ngo or oraganisation name website </b>    <img src="your ngo logo link paste here"></h1></center></marquee><br>
+<center> <img src="naac a.png"></center>
+
+<div style="background-color:#FFF0F5;">
+<b><font size ="6">For Donation Of Plasma Fill Form Here:-</b>
+
+<hr>
+<div align="center">
+<b><font size="4">CLICK HERE:-<a href="paste plasma form  code.html here from my github"></b><button class="bttn">PLASMA DONATION FORM</button></a>
+</div> 
+<div style="background-color:#FFFAF0;">
+<p class="ex1"><marquee><h5><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jnZwmMkBZmNItZKdYH8InlftOpSFvh9_Eg&usqp=CAU"style="width:350px;height:400px;"border=4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWF3O7gzk94P1UWosUhO952FVTya41nehg8A&usqp=CAU"style="width:350px;height:400px;"border=4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrU25lBlR-KuW_XbTinz1PU35sPos6EtMozg&usqp=CAU"style="width:350px;height:400px;"border=4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JumrjebBI7hTf8DfaHMkYISOcGEdFu4qjw&usqp=CAU"style="width:350px;height:400px;"border=4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJiEQwbsp997adt3nqYiVPKIJPZ9iv_4YGw&usqp=CAU"border=4 style=width:350px;height:400px;">
+</h5></marquee></p>
+<div style="background-color:#FFF0F5;">
+<hr>
+<b><font size ="6">For Donation Of Oxygen Cylinder Fill Form Here:-</b>
+
+<hr>
+<div align="center">
+<b><font size="4">CLICK HERE:-<a href="paste oxygen form  code.html here from my github"></b><button class="bttn">OXYGEN CYLINDER DONATION</button></a>
+</div>
+<div style="background-color:#FFFAF0;">
+<p class="ex1"><marquee><h7><img src="https://static.theprint.in/wp-content/uploads/2021/04/370952968-e1618545322951-696x392.jpg"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/24/full/1619263536-1073.jpg"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/4/Desk/2021_4$largeimg_1559269599.jpeg"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://images.hindustantimes.com/img/2021/04/04/550x309/20210403_MUM-PC-MN_Coronavirus_021_1617531280823_1617531320779.jpg"border=4 style=width:350px;height:400px;"border=4>
+</h7></marquee></p>
+<div style="background-color:#FFF0F5;">
+<hr>
+<font size ="6"><b>For Vaccination Slot In Nearby area go Here:-</b>
+<hr>
+
+<div align="center">
+<font size="4"><b> for18-44 age group:- <a href="https://under45.in"><button class="bttn">VACCINATION SLOTS </a></b>
+</div>
+<hr> 
+<div align="center">
+<font size="4"><b>for 45 &above age group:-<a href="https://above45.in/"><button class="bttn">VACCINATION SLOTS </b></a>
+</div>
+<div style="background-color:#FFFAF0;">
+<p class="ex1"><marquee><h6><img src="https://images.livemint.com/img/2021/01/16/600x338/AFP_8YV4YR_1610773526154_1610773560144.jpg"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://i.insider.com/6087437a3f0560001881c2b8?width=700"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://static.independent.co.uk/2021/01/16/16/2021-01-16T081254Z_898908127_RC2U8L9O4TWK_RTRMADP_3_HEALTH-CORONAVIRUS-INDIA-VACCINE.JPG"border=4 style=width:350px;height:400px;"border=4>
+<img src="https://media.nature.com/lw800/magazine-assets/d41586-021-00996-y/d41586-021-00996-y_19064146.jpg"border=4 style=width:350px;height:400px;"border=4>
+</h6></marquee></p>
+<div style="background-color:#F0FFFF;">
+<marquee><font size="4"><font color="black"><b>this website is develped by</b>
+<font size="3">
+<b><hr>"your name type here for display who developed the website "
+</b></marquee>
+<hr>
+<div style="background-color:white;">
+<font size="4"><font color="red">*DISCLAIMER/SUGGESTION FOR BOOKING:-when you are going to book ,just check the donor's unique 6 digit code,and you must have to fill that code in booking form.
+<hr>
+<div style="background-color:#F5DEB3;">
+<iframe src="oxygen donor avialable form google sheet link paste here"></iframe>
+<iframe src="oxygen booking form google sheet link paste here</iframe>
+<form action="oxygen booking google form paste here">
+<button type="submit">BOOK HERE</button>
+</form>
+<hr>
+<iframe src="plasma donor avialable form google sheet link paste here"></iframe>
+<iframe src="plasma booking form google sheet link paste here"></iframe>
+<form action="plasma booking google form link paste here">
+<button type="submit">BOOK HERE</button><color="voilet"><font size="2">
+</form>
+<hr>
+<div style="background-color:#F5FFFA;">
+<font size="3"><b>visitor:-</b>
+
+</body></center>
+</html>
