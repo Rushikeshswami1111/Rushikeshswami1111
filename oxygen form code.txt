@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> "your oraganisation name "</title>
+<script type="text/javascript" src="validate.js"></script>
+</head>
+<body background="shield-flag-india-vector-illustration-shield-flag-india-">
+<form method="post" autocomplete="off" name="google-sheet">
+<form action="#" name="OXYGEN CYLINDER FORM" onSubmit="return(validate());">
+
+<table cellpadding="8" width="90%" bgcolor="FF9966" align="center"
+cellspacing="8">
+
+<tr>
+<td colspan=10>
+<center><font size=4><b>OXYGEN CYLINDER FORM</b></font></center>
+</td>
+</tr>
+
+<tr>
+<td>FULL Name</td>
+<td><input type=text name="full name" id="full name" 
+size="50"></td>
+</tr>
+
+
+
+<tr>
+<td>State</td>
+<td><select Name="state">
+<option value="." selected>select..</option>
+<option value="andhra pradesh">ANDHRA PRADESH</option>
+<option value="arunachal pradesh">ARUNACHAL PRADESH</option>
+<option value="assam">ASSAM</option>
+<option value="bihar">BIHAR</option>
+<option value="chattisgarh">CHATTISGARH</option>
+<option value="delhi">DELHI</option>
+<option value="goa">GOA</option>
+<option value="gujarat">GUJARAT</option>
+<option value="haryana">HARYANA</option>
+<option value="himachal pradesh">HIMACHAL PRADESH</option>
+<option value="jharkhand">JHARKHAND</option>
+<option value="jammu kashmir">JAMMU KASHMIR</option>
+<option value="karnataka">KARNATAKA</option>
+<option value="kerla">KERLA</option>
+<option value="ladakh">LADAKH</option>
+<option value="madhyapradesh">MADHYAPRADESH</option>
+<option value="maharashtra">MAHARASHTRA</option>
+<option value="manipur">MANIPUR</option>
+<option value="meghalaya">MEGHALAYA</option>
+<option value="mizoram">MIZORAM</option>
+<option value="nagaland">NAGALAND</option>
+<option value="odisha">ODISHA</option>
+<option value="punjab">PUNJAB</option>
+<option value="puducchery">PUDUCCHERY</option>
+<option value="rajasthan">RAJASTHAN</option>
+<option value="sikkim">SIKKIM</option>
+<option value="tamilnadu">TAMILNADU</option>
+<option value="telangana">TELANGANA</option>
+<option value="tripura">TRIPURA/option>
+<option value="uttar pradesh">UTTAR PRADESH</option>
+<option value="uttarakhand">UTTARAKHAND</option>
+<option value="west bengal">WEST BENGAL</option>
+</select></td>
+</tr>
+
+<tr>
+<td>City</td>
+<td><select name="city">
+<option value="." selected>select..</option>
+<option value="pune">PUNE</option>
+<option value="Mumbai">MUMBAI</option>
+<option value="kolhapur">KOLHAPUR</option>
+<option value="sangli">SANGLI</option>
+<option value="satara">SATARA</option>
+<option value="nashik">NASHIK</option>
+<option value="nagpur">NAGPUR</option>
+<option value="thane">THANE</option>
+<option value="pimpri">PIMPRI</option>
+<option value="ahmednagar">AHMEDNAGAR</option>
+<option value="satara">SATARA</option>
+<option value="aurangabad">AURANGABAD</option>
+<option value="latur">LATUR</option>
+<option value="solapur">SOLAPUR</option>
+<option value="dhule">DHULE</option>
+<option value="yavatmal">YAVATMAL</option>
+<option value="gadchiroli">GADCHIROLI</option>
+<option value="jalgaon">JALGAON</option>
+<option value="wardha">WARDHA</option>
+<option value="bengaluru">BENGALURU</option>
+<option value="chennai">CHENNAI</option>
+<option value="hydrabad">HYDRABAD</option>
+<option value="kochi">KOCHI</option>
+<option value="mysore">MYSORE</option>
+<option value="bhopal">BHOPAL</option>
+<option value="panjim">PANJIM</option>
+<option value="jaipur">JAIPUR</option>
+<option value="ahmedabad">AHMEDABAD</option>
+<option value="chandigarh">CHANDIGARH</option>
+<option value="belgaum">BELGAUM</option>
+<option value="kolkata">KOLKATA</option>
+<option value="patna">PATNA</option>
+<option value="lucknow">LUCKNOW</option>
+<option value="varanasi">PATNA</option>
+<option value="bhubaneshwar">BHUBANESHWAR</option>
+<option value="mohali">MOHALI</option>
+<option value="howrah">HOWRAH</option>
+<option value="manali">MANALI</option>
+<option value="agra">AGRA</option>
+<option value="madurai">MADURAI</option>
+<option value="indore">INDORE</option>
+<option value="kanpur">KANPUR</option>
+<option value="coimbatore">COIMBATORE</option>
+<option value="ranchi">RANCHI</option>
+<option value="meerut">MEERUT</option>
+<option value="rajkot">RAJKOT</option>
+<option value="srinagar">SRINAGAR</option>
+<option value="dhanbad">DHANBAD</option>
+<option value="amritsar">AMRITSAR</option>
+</select></td>
+<tr>
+<td>TYPE NAME OF CITY</td>
+<td><input type="text" name="type name of city" id="type name of city"
+size="30"></td>
+</tr>
+<tr>
+<td>PINCODE</td>
+<td><input type="text" name="pincode" id="pincode" 
+size="30"></td>
+</tr>
+
+<tr>
+<td> ADDRESS</td>
+<td><input type="text" name="address" id="address" 
+size="50"></td>
+</tr>
+
+<tr>
+<td>EmailId</td>
+<td><input type="text" name="emailid" id="emailid" size="30"></td>
+</tr>
+<tr>
+<td>OXYGEN CYLINDER AVAILABLE</td>
+<td><input type="text" name="oxygen cylinder available" id="oxygen cylinder available" 
+size="30"></td>
+</tr>
+
+
+<tr>
+<td>MOBILE NO</td>
+<td><input type="text" name="mobile no" id="mobile no" 
+size="30"></td>
+</tr>
+
+<tr>
+<td>THIS IS YOUR 6 DIGIT UNIQUE CODE</td>
+<td colspan="2">
+<p id="sixdigitnumber"></p>
+<script>var sixdigitsrandom = Math.floor(100000 + Math.random() * 900000);
+document.getElementById("sixdigitnumber").innerHTML=sixdigitsrandom;
+// alert(sixdigitsrandom);
+</script>
+</tr>
+
+<tr>
+<td>TYPE ABOVE 6 DIGIT CODE</td>
+<td><input type=text name="type above 6 digit code" id="type avove 6 digit code" 
+size="50"></td>
+</tr>
+
+
+<tr>
+<td><input type="reset"></td>
+<td colspan="2"><input type="submit" value="Submit Form" /></td>
+</tr>
+</table>
+</form>
+<tr>
+<center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk7xkvOtsI945E6KQBSuOLmxLfxsxYq9HTaxvJ_-j3GHJC-u_jhtpCEeyXMiUn2CJG9M&usqp=CAU"style=width:500px;height:600px;">
+</center>
+<hr>
+<marquee>
+<img src="https://images.hindustantimes.com/img/2021/04/04/1600x900/20210403_MUM-PC-MN_Coronavirus_021_1617531280823_1617531320779.jpg"style=width:350px;height:400px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOOHJT8Mj1xXRhN7WdsiDnQrynxVm7pVs1Q&usqp=CAU"style=width:350px;height:400px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZ3vQvCg5rw80Coj0ilA4mTxkBIb2Vv0nGw&usqp=CAU"style=width:350px;height:400px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOOHJT8Mj1xXRhN7WdsiDnQrynxVm7pVs1Q&usqp=CAU"style=width:350px;height:400px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd_aqE-zjWB58oZivIt7b-cV1BtzH_Sq6W0Q&usqp=CAU"style=width:350px;height:400px;">  
+</marquee>
+</tr>
+
+<hr>
+<marquee><h8>this website is develped by
+<hr>"your name type here"
+<hr>
+</h8></marquee>
+
+
+
+<script>
+            const scriptURL = 'google sheet link for store submitted data'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+</body>
+</html>
