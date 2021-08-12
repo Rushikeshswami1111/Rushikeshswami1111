@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title> "HELP TRINITY STUDENTS'S NGO"</title>
+</head>
+<center><body>
+<body bgcolor="#F8F8FF">
+<p class="ex1">
+<b><font size ="6">HELP FOR DONATOR REGISTRATION:-</b>
+<hr><font size ="5">
+FOR RESISTRATION OF DONOR :- follow this steps below=>
+<br><font size ="5">1]plasma donor:-
+<br><font size ="3">1)you should go and click on "plasma donation form" . 
+<br>2)<font size ="3">after clicking you will diverted on another form then you can fill your details in form with ""unique 6 digit code"" as you wish. 
+<br>3)<font size ="3">then after submitting you will get message "thanks for contacting us,we will let you soon".
+<hr>
+<br><font size ="5">2]oxygen donor:-
+<br><font size ="3">1)you should go and click on "oxygen cylinder donation" .
+<br>2)<font size ="3">after clicking you will diverted on another form then you can fill your details in form with ""unique 6 digit code"" as you wish.  
+<br>3)<font size ="3">then after submitting you will get message "thanks for contacting us,we will let you soon".
+</p>
+<hr>
+<p class="ex1">
+<b><font size ="6">HELP FOR BOOKING:-</b>
+<hr><font size ="5">
+FOR BOOKING :- follow this steps=>
+<br><font size ="5">1]plasma booking:-
+<br><font size ="3">1)you should go and click on "plasma book here button"which is situated at bottom of website. 
+<br>2)<font size ="3">after clicking you will diverted on another form then you can fill your details in form with ""unique 6 digit code"" of donor which already displayed on main website and want to book them . 
+<br>3)<font size ="3">then after submitting you will get message "thanks for contacting us,check your email for donor contact detail".
+<br>4)<font size ="3">then you have to check your register email which you filled in booking form.
+<br>5)<font size ="3">in email there is link of donor's contact info you can contact them personally after book confirmed.
+<hr>
+<br><font size ="5">2]oxygen cylinder booking:-
+<br><font size ="3">1)you should go and click on "oxygen book here button"which is situated at bottom of website. 
+<br>2)<font size ="3">after clicking you will diverted on another form then you can fill your details in form with ""unique 6 digit code"" of donor which already displayed on main website and want to book them . 
+<br>3)<font size ="3">then after submitting you will get message "thanks for contacting us,check your email for donor contact detail".
+<br>4)<font size ="3">then you have to check your register email which you filled in booking form.
+<br>5)<font size ="3">in email there is link of donor's contact info you can contact them personally after book confirmed.
+<hr>
+</p>
+</body></center>
+</html>
